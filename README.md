@@ -1,4 +1,4 @@
-# FinalProject
+# CS102A - Fall 2018 - Final Project
 
 For your final project, you will write a "Choose Your Own Adventure" program. More information can be found here: [https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure).
 
