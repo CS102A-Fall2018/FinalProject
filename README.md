@@ -29,3 +29,7 @@ You will be graded on the following:
 
 
 Remember that this final project represents 25% of your overall grade the for the course.
+
+You may work as a pair for this final project, but each person of the pair must submit at least 1 commit to the project.  
+
+This project must also be submitted as a pull request or it will be subject to a 10% penalty. Late submissions will forego the 10% presentation part of the grade and also be subject to an additional 10% late penalty.
