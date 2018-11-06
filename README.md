@@ -3,7 +3,19 @@
 For your final project, you will write a "Choose Your Own Adventure" program. More information can be found here: [https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure).
 
 In this program, you will write a compelling story within your program that uses at least 10 different concepts from CS102A. Below is a list of concepts.
-- TBD
+- Hello World
+- If, Else-If, Else Statements
+- Switch Statements
+- For Loops
+- While Loops
+- Do While Loops
+- Functions
+- Arrays
+- Pointers
+- Functions with Pointer Arguments
+- Command Line Arguments
+- Structures
+- Pointers to Structures
 
 Within your code, please put in a comment to indicate when you are using a concept.
 
